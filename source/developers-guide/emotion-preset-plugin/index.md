@@ -21,7 +21,7 @@ With __Shopware 5.3__ we introduced shopping world / emotion presets. This tutor
 can be contributed to the Community Store like any other plugin. You just have to set a special flag in your Account settings for deployment, so that your plugin gets marked as emotion preset.
 
 ### Qualification
-Before getting started with this tutorial, it is recommended to become familiar with creating Shopware plugins first, since this guide will only point out the extras for creating a __custom emotion preset plugin__. For further information on developing plugins see [our plugin guides](plugin-guide/).
+Before getting started with this tutorial, it is recommended to become familiar with creating Shopware plugins first, since this guide will only point out the extras for creating a __custom emotion preset plugin__. For further information on developing plugins see [our plugin guides](https://developers.shopware.com/plugin-guide/).
 
 ## Plugin Structure
 The structure of the example plugin is as follows:
